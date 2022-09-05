@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian Cardona
-- 👀 currently working on my visual sentiment analysis system
+- 👀 currently working on my sorting visualizer system
 - 🌱 tryna create sum ai projects
 - 📫 @ianiscardona (twitter & instagram)
 - Ask me about anything tbh
