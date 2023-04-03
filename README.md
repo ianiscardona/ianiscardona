@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian Cardona
 - 👀 check out my public works!
-- 🌱 tryna create sum ai projects
+- 🌱 tryna create web app
 - 📫 @ianiscardona (twitter & instagram)
 - Ask me about anything tbh
