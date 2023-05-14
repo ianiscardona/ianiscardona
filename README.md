@@ -1,6 +1,6 @@
-# What up! I'm Ian (Get It Done) and these are my projects. Check 'em out!
-
-
+# 💫 What up! I'm
+## (ian)
+# Get It Done
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ianiscardona/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ian-cardona-863a3b1a6/) 
