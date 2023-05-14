@@ -12,7 +12,4 @@ What up! I'm Ian (Get It Done) and these are my projects. Check 'em out!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ianiscardona&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianiscardona&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ianiscardona&icon=7&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
