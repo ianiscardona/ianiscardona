@@ -1,5 +1,5 @@
-# 💫 About Me:
-What up! I'm Ian (Get It Done) and these are my projects. Check 'em out!
+# What up! I'm Ian (Get It Done) and these are my projects. Check 'em out!
+
 
 
 ## 🌐 Socials:
